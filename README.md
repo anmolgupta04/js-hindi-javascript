@@ -1,1 +1,1 @@
-# js-hindi-javascript
+# javascript
